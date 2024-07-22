@@ -1,6 +1,10 @@
+
+
+
 .first-section {
     background-color: #1F2937;
 }
+
 ul {
     list-style-type: none;
     display: flex;
@@ -56,4 +60,21 @@ p {
     margin-bottom: 15px;
     margin-left: 75px;
 }
+h2 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+    margin: 25px;
+    padding: 0;
+}
+.second-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-container {
+    display: flex;
+}
+
 
