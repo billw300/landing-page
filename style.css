@@ -14,4 +14,46 @@ a {
     display: flex;
     justify-content: space-around
 }
+h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+    margin-left: 100px
+}
+p {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    margin-left: 100px;
+    margin-bottom: 15px;
+}
+.sign-up-first-section {
+    background-color: #3882F6;
+    color: white;
+    font-weight: 400;
+    width: 100px;
+    height: 25px;
+    border: 1px #3882F6;
+    border-radius: 10px;
+    margin-left: 100px;
+
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+.content-left, .content-right {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+}
+.content-right {
+    margin-bottom: 15px;
+    margin-left: 75px;
+}
 
